@@ -1,0 +1,43 @@
+.navbar-default {
+  background-color: transparent;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  height: 140px;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 20px 60px;
+    font-family: PT mono;
+    font-size: 14px;
+    color: black;
+    font-weight: 400px;
+}
+.navbar-brand {
+    position: relative;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+    text-decoration: underline;
+    padding-top: 20px;
+    font-size: 40px;
+    font-family: PT mono;
+    color: black;
+}
+.navbar-brand:hover, .navbar-brand:focus{
+  text-decoration: underline;
+}
+
+#icons{
+  font-size: 18px;
+  padding: 5px;
+}

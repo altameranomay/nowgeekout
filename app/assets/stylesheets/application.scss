@@ -11,3 +11,8 @@
  * file per style scope.
  *
  */
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+ @import "components/*";
+ @import "welcome.scss";
+ @import "css/ionicons.css";
